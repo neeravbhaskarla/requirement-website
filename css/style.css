@@ -910,7 +910,7 @@ label {
   margin: 0 auto;
   padding: 0;
   margin-top: -24px;
-  background: #f7f7f7;
+  background: white;
 }
 .header .navbar .container {
   position: relative;
@@ -922,7 +922,7 @@ label {
   float: left;
 }
 .header .navbar .container .logo a img {
-  height: 41px;
+  height: 100px;
 }
 .header .navbar .container .nav-menu {
   margin: 0 auto;
